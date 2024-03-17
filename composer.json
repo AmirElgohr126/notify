@@ -1,5 +1,5 @@
 {
-"name": "amir/notify-firebase-v1",
+"name": "amirnagy/notify-firebase-v1",
 "description": "This package for sending notifications firebase v1 by php",
 "type": "library",
 "require": {
